@@ -53,6 +53,14 @@ Desafio original por Frontend Mentor.
 
 ## 🌐 Visualização do projeto
 
-🔗 **Acesse o projeto online:** *(adicione aqui o link do GitHub Pages ou Vercel quando estiver publicado)*
+| Desktop | Mobile |
+|----------|---------|
+| ![](design/desktop-design.jpg) | ![](design/mobile-design.jpg)
 
-![](design)
+| Hover Effect |
+|----------|
+| ![](design/active-states.jpg)
+
+# 🔗 Links
+- Repositório URL: [GitHub](https://github.com/RandolphVH/NFT-Preview-Card-Component)
+- Live Site URL: [GitHub Pages]()
