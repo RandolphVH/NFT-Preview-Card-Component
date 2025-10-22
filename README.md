@@ -46,11 +46,6 @@ Durante a aula e o desenvolvimento do projeto, aprendi sobre:
 - **Responsividade sem frameworks**, apenas com CSS puro  
 - Importância de seguir um **design fiel** e padronizado  
 
-## 🧑‍💻 Créditos
-
-Desenvolvido por **Victor Lima** durante uma aula do **Dev em Dobro**.  
-Desafio original por Frontend Mentor.
-
 ## 🌐 Visualização do projeto
 
 | Desktop | Mobile |
@@ -61,6 +56,11 @@ Desafio original por Frontend Mentor.
 |----------|
 | ![](design/active-states.jpg)
 
-# 🔗 Links
+### 🔗 Links
 - Repositório URL: [GitHub](https://github.com/RandolphVH/NFT-Preview-Card-Component)
-- Live Site URL: [GitHub Pages]()
+- Live Site URL: [GitHub Pages](https://randolphvh.github.io/NFT-Preview-Card-Component/)
+
+## 🧑‍💻 Créditos
+
+Desenvolvido por **Victor Lima** durante uma aula do **Dev em Dobro**.  
+Desafio original por Frontend Mentor.
